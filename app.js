@@ -11,4 +11,4 @@ http.createServer(function (request, response) {
 }).listen(8002);
 
 // Console will print the message
-console.log('Server running at http://localhost:8001/');
+console.log('Server running at http://localhost:8002/');
